@@ -1,0 +1,8 @@
+
+opencv-python
+numpy
+ollama
+sounddevice
+faster-whisper
+ultralytics
+openwakeword
